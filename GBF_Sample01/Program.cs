@@ -29,6 +29,7 @@ namespace GBF_Sample01
                 flo.battle_Object_Detail(C);
             }
             Console.ReadLine();
+            Console.WriteLine("02072018 2:09 p.m.");
 
 
 
